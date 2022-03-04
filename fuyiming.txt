@@ -24,3 +24,12 @@ usage: git reset [--mixed | --soft | --hard | --merge | --keep] [-q] [<commit>]
     --stdin               DEPRECATED (use --pathspec-from-file=- instead): read paths from <stdin>
 
 
+
+
+
+
+
+
+asdasdasdasdasdsasfxiasdiasdpoasdaspod234e223i4p3
+
+
